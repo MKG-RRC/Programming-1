@@ -14,7 +14,8 @@ public class AverageInteger {
         int thirdNumber = 9;
         int fourthNumber = 34;
 
-        // Counter for the integer values
+        // Counter for the integer values, I used double instead of int so the decimal
+        // of the calculated value is shown //
         double counter = 4.0;
 
         // Formula = Get the sum of all listed values and then Divide it on how many
