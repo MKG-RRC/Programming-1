@@ -28,7 +28,7 @@ public class AverageInteger {
         // Print //
 
         System.out.println("The average of the values " + firstNumber + ", " + secondNumber + ", " + thirdNumber
-                + " and " + fourthNumber + " is " + calculatedValues);
+                + " and " + fourthNumber + " is " + calculatedValues + ".");
 
         // expectd output : The average of the values 1, 7, 9 and 34 is 12.75.
 
